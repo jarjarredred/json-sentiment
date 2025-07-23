@@ -1,3 +1,8 @@
+# Module 4 - Jarred Gastreich
+### Actions:
+Installed spaCy and spaCyTextBlob successfully.
+
+
 # Requests, JSON, and basic NLP with spaCy
 
 Complete the tasks in the Python Notebook in this repository.
